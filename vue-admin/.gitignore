@@ -20,6 +20,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
-
+# 12
  #忽略gitignore文件
          .gitignore
